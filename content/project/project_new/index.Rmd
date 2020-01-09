@@ -1,0 +1,29 @@
+---
+title: New Project
+author: Cameryn Brock
+date: '2020-01-09'
+slug: project_new
+categories: []
+tags: 
+- Deep Learning
+- Cats
+subtitle: ''
+summary: This is a new project page made in lab.
+authors: []
+lastmod: '2020-01-09T15:01:07-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Cool code here
+
+```{r}
+
+plot(cars)
+
+```
+

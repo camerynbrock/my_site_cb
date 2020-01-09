@@ -18,7 +18,7 @@ interests:
 - Data Vizualization
 name: Cameryn Brock
 organizations:
-- name: University of California, Santa Barbara
+- name: Bren School of Environmental Science & Management (UCSB)
   url: ""
 role: Master's Student
 social:
