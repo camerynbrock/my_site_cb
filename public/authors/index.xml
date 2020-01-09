@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Cameryn Brock</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Cameryn Brock is a master’s student specializing in Conservation Planning with a focus in Environmental Data Science. She is returning to UCSB after graduating in 2016 with a Bachelor of Science in Zoology. Cameryn’s interest in biodiversity conservation led her to spend the following years as a research assistant. She worked to understand the human impact on birds worldwide, including in South Africa, Greece, Oregon, and her hometown of Lake Tahoe. While her passion towards bird conservation remained, during her research experiences she found her interest shift towards protecting these species by changing policy. With this new career direction, Cameryn began work within environmental consulting. As a research associate for Environmental Incentives, she gained a deeper understanding of environmental topics outside of biodiversity conservation, such as in stormwater, public-private partnerships, and policy. She aims to leverage her interdisciplinary background by working in bird conservation and hopes to increase the public’s understanding of scientific findings with effective data visualization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
